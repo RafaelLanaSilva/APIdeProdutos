@@ -1,0 +1,119 @@
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\appsettings.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.staticwebassets.endpoints.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.exe
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.deps.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.runtimeconfig.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.pdb
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.csproj.AssemblyReference.cache
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.AssemblyInfoInputs.cache
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.AssemblyInfo.cs
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.csproj.CoreCompileInputs.cache
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\scopedcss\bundle\ProdutosApp.API.styles.css
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdutosApp.API.props
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdutosApp.API.props
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdutosApp.API.props
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\Produtos.4F5D3E0C.Up2Date
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\refint\ProdutosApp.API.dll
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.pdb
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.genruntimeconfig.cache
+C:\CSharp - SQS Manha 02\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ref\ProdutosApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\appsettings.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.staticwebassets.endpoints.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.exe
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.runtimeconfig.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.API.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\scopedcss\bundle\ProdutosApp.API.styles.css
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.ProdutosApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.ProdutosApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProdutosApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProdutosApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\Produtos.4F5D3E0C.Up2Date
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\refint\ProdutosApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ProdutosApp.API.genruntimeconfig.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\obj\Debug\net8.0\ref\ProdutosApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\turma4\ProdutosApp\ProdutosApp\ProdutosApp.API\bin\Debug\net8.0\ProdutosApp.Data.pdb

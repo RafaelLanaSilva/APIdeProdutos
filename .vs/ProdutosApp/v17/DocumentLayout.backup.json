@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafal\\OneDrive\\\u00C1rea de Trabalho\\turma4\\ProdutosApp\\ProdutosApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{323BAE19-3643-43A5-A2F7-CD9A38E9B487}|ProdutosApp.API\\ProdutosApp.API.csproj|c:\\users\\rafal\\onedrive\\\u00E1rea de trabalho\\turma4\\produtosapp\\produtosapp\\produtosapp.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323BAE19-3643-43A5-A2F7-CD9A38E9B487}|ProdutosApp.API\\ProdutosApp.API.csproj|solutionrelative:produtosapp.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{323BAE19-3643-43A5-A2F7-CD9A38E9B487}|ProdutosApp.API\\ProdutosApp.API.csproj|c:\\users\\rafal\\onedrive\\\u00E1rea de trabalho\\turma4\\produtosapp\\produtosapp\\produtosapp.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{323BAE19-3643-43A5-A2F7-CD9A38E9B487}|ProdutosApp.API\\ProdutosApp.API.csproj|solutionrelative:produtosapp.api\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\OneDrive\\\u00C1rea de Trabalho\\turma4\\ProdutosApp\\ProdutosApp\\ProdutosApp.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "ProdutosApp.API\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\rafal\\OneDrive\\\u00C1rea de Trabalho\\turma4\\ProdutosApp\\ProdutosApp\\ProdutosApp.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "ProdutosApp.API\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:43:45.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\rafal\\OneDrive\\\u00C1rea de Trabalho\\turma4\\ProdutosApp\\ProdutosApp\\ProdutosApp.API\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ProdutosApp.API\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\rafal\\OneDrive\\\u00C1rea de Trabalho\\turma4\\ProdutosApp\\ProdutosApp\\ProdutosApp.API\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ProdutosApp.API\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T21:42:25.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

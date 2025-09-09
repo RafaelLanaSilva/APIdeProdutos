@@ -1,0 +1,34 @@
+services:
+
+  usuariosapp:
+    container_name: produtosapp-api
+    build:
+       context: .
+       dockerfile: ProdutosApp.API/Dockerfile
+    ports:
+       - "8081:8081"
+    networks:
+       - produtosapp-network
+    depends_on:
+       - sqlserver
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: produtosapp-sqlserver
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=Coti@2025
+    ports:
+      - "1434:1433"
+    networks:
+      - produtosapp-network
+    restart: unless-stopped
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+networks:
+  produtosapp-network:
+    driver: bridge
+
+volumes:
+  sqlserver_data:

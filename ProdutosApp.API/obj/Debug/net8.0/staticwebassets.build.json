@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o7Gc7I6IwrDsGotgvQfFcAkIHknwhWBVxHoKnnGRRP8=",
+  "Source": "ProdutosApp.API",
+  "BasePath": "_content/ProdutosApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

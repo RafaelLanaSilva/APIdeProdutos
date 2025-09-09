@@ -1,0 +1,133 @@
+[
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.CategoriasController",
+    "Method": "Get",
+    "RelativePath": "api/categorias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProdutosApp.API.Dtos.CategoriaResponseDto, ProdutosApp.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.DashboardController",
+    "Method": "Get",
+    "RelativePath": "api/dashboard/{dataMin}/{dataMax}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataMin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "dataMax",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.ProdutosController",
+    "Method": "Post",
+    "RelativePath": "api/produtos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProdutosApp.API.Dtos.ProdutoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.ProdutosController",
+    "Method": "Get",
+    "RelativePath": "api/produtos/{dataMin}/{dataMax}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataMin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "dataMax",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.ProdutosController",
+    "Method": "Put",
+    "RelativePath": "api/produtos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "ProdutosApp.API.Dtos.ProdutoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.ProdutosController",
+    "Method": "Delete",
+    "RelativePath": "api/produtos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProdutosApp.API.Controllers.ProdutosController",
+    "Method": "Get",
+    "RelativePath": "api/produtos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
